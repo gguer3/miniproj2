@@ -1,0 +1,22 @@
+body{
+    background-image: url(imgs/CeruleanBlue.jpg);
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: cornsilk;
+}
+h3{
+    text-align: center;
+    color: cornsilk
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
